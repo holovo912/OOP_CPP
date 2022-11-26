@@ -1,0 +1,5 @@
+vip1 Doraemon 19 
+vip2 Nobita 20
+vip3 Shizuka 21
+vip4 Suneo 21
+vip5 Chaien 21
